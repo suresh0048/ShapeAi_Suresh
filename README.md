@@ -6,9 +6,8 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a
 href="https://www.youtube.com/playlist?list=PL7zl8TDRnbul748Yq6CTEnUzUfGE26AOA">
-<img
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/JavaScriptan
-dNodejs.png"> </a>
+<img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/Python_and_deep_learning.png"> </a>
+ </a>
 <br>I got to have hands on experience on:
 <li>HTML
 <li>JavaScript
